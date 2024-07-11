@@ -1,6 +1,15 @@
 # OpenSMSServer
 
-OpenSMSServer is a server for sending SMS messages using an API. This README file contains installation and configuration instructions.
+OpenSMSServer is a Laravel application designed to act as an SMS gateway server. It allows you to send SMS messages from IoT modules located in different networks through a centralized server.
+
+## Features
+
+- Centralized SMS gateway for IoT modules.
+- Secure and scalable.
+- Easy integration with the OpenSMS library.
+- API for receiving and processing SMS requests from IoT modules.
+
+
 
 ## Prerequisites
 
